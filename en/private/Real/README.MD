@@ -1,7 +1,7 @@
 This folder contains the private and real files.
 
 
-Contains:
+Content:
 
 - A bus ticket, considered private since it contains the Identification Card number of the one who bought it. 
 

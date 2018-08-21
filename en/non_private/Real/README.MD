@@ -1,6 +1,6 @@
 This folder contains the real files considered non private.
 
-Contains:
+Content:
 
 - The front cover of an assignment but without any means of identifying the authors.
 
