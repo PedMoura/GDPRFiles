@@ -1,0 +1,24 @@
+This is a file to add a file pattern and to test some combinations of a heuristic with a number. 
+identity card 12345678
+1
+
+born
+08/22/1986
+
+CC
+ DC-> 
+nif 12345678 111111111 11111111111
+
+
+social 12345678901
+
+
+telephone
+
+
+born
+
+ in
+123456789
+
+contributor

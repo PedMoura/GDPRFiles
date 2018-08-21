@@ -1,0 +1,1 @@
+Esta pasta contém os ficheiros não privados. Estão presentes duas pastas, uma com ficheiros reais, outra com ficheiros que foram criados para adicionar algum tipo de padrão.
