@@ -7,7 +7,7 @@ Content:
 
 - Many Curruculum Vitae (CV), these files are private because they contain a lot of personal information.
 
-- Three Invoices created by the Instituto Superior Tecnico. Invoices that contains private information like the taxpayer number.
+- Three Invoices created by the Instituto Superior Técnico. Invoices that contains private information like the taxpayer number.
 
 - A teachers' sheet, considered private since it has a lot of information on the teacher.
 
