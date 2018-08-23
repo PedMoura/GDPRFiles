@@ -8,10 +8,10 @@ Content:
 
 - Two documents with exercises.
 
-- Two lab statement created in the university Instituto Superior T�cnico
+- Two lab statement created in the university Instituto Superior Tecnico
 
 - Four manuals of packages from an open-source software
 
 - Five receipts with the private information hidden.
 
-- Four tests created in the university Instituto Superior T�cnico
+- Four tests created in the university Instituto Superior Tecnico
