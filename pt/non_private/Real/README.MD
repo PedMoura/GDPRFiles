@@ -6,12 +6,12 @@ Content:
 
 - Two contracts from the company Vodafone, available online.
 
-. Two documents with exercises.
+- Two documents with exercises.
 
-- Two lab statement created in the university Instituto Superior Técnico
+- Two lab statement created in the university Instituto Superior Tï¿½cnico
 
 - Four manuals of packages from an open-source software
 
 - Five receipts with the private information hidden.
 
-- Four tests created in the university Instituto Superior Técnico
+- Four tests created in the university Instituto Superior Tï¿½cnico
