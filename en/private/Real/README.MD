@@ -13,7 +13,7 @@ Content:
 
 - Two already written forms. 
 
-- A proposition of an event, considered private since it has the organization's Tax Identification Number.
+- A proposal of an event, considered private since it has the organization's Tax Identification Number.
 
 - A Pay Slip, which is a private file since it has a Tax Identity Number.
 

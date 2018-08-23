@@ -1,0 +1,1 @@
+This folder contains non private files. There two folders, one with real files, another with synthetic ones, created in order to add some kinda of pattern. 

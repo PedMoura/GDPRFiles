@@ -1,5 +1,4 @@
-Esta pasta contém os ficheiros em português utilizadas no conjunto para treino do algoritmo de Machine Learning
+This folder contains files in portuguese. These files are used in the training of a Machine Learning Algorithm.
 
-
-Existem duas pastas, uma com ficheiros privados e a outra com ficheiros não privados
+There are two folder, one with private files and the other one with non private files.
 
