@@ -6,6 +6,8 @@ Content:
 
 - Two contracts from the company Vodafone, available online.
 
+. Two documents with exercises.
+
 - Two lab statement created in the university Instituto Superior Técnico
 
 - Four manuals of packages from an open-source software

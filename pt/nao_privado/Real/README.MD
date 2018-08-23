@@ -7,6 +7,8 @@ Conteudo:
 
 - Dois Contratos de adesão ao serviço fixo e/ou serviço Móvel da Vodafone, disponível online. 
 
+- Dois documentos com exercícios.
+
 - O enunciado de dois trabalhos laboratoriais do Instituto Superior Técnico.
 
 - Quatro manuais com informação sobre pacotes existentes em software open source.
