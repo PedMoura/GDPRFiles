@@ -4,14 +4,15 @@ Content:
 
 - The front cover of an assignment but without any means of identifying the authors.
 
-- Two contracts from the company Vodafone, available online.
+- A contract from the company Vodafone, available online.
 
-- Two documents with exercises.
+- A document with Logic and Arithmetic Reasoning exercises.
 
-- Two lab statement created in the university Instituto Superior Técnico
+- Two lab statement created in the university Instituto Superior TÃ©cnico
 
 - Four manuals of packages from an open-source software
 
-- Five receipts with the private information hidden.
+- Three receipts with the private information hidden.
 
-- Four tests created in the university Instituto Superior Técnico
+- Four tests created in the university Instituto Superior TÃ©cnico
+
