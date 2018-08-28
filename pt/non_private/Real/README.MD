@@ -18,17 +18,17 @@ Content:
 
 
 
-- Two lab statement created in the university Instituto Superior Técnico
+- Two lab statement created in the university Instituto Superior TÃ©cnico.
 
-.
 
-- Four manuals of packages from an open-source software
 
-.
+- Four manuals of packages from an open-source software.
+
+
 
 - Three receipts with the private information hidden.
 
 
 
-- Four tests created in the university Instituto Superior Técnico
+- Four tests created in the university Instituto Superior TÃ©cnico
 
