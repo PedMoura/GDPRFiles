@@ -7,7 +7,7 @@ Contents:
 "en" folder contains the translated english version of the same training set
 <br />
 <br />
-
+<br />
 "pt" folder content:
 
 two folders, one with private files and the other one with non private files.
@@ -16,8 +16,8 @@ two folders, one with private files and the other one with non private files.
 "pt/private" folder content:
 
 two folder, one with real files and another with synthetic files, created with the purpose of adding some kind of pattern to the algorithm.
-
-
+<br />
+<br />
 "pt/private/Real" folder content:
 
 This folder contains the private and real files
@@ -35,8 +35,8 @@ This folder contains the private and real files
 - A request of sponsorship of an event. With private information being sent, like the Tax Identity Number (TIN/NIF/VAT) of the requesting organization.
 
 - Two receipts which have personal information from the buyer and the seller 
-
-
+<br />
+<br />
 "pt/private/Synthetic" folder content: 
 
 This folder contains the private and synthetic files
@@ -78,13 +78,13 @@ This folder contains the private and synthetic files
 - pt_p_Synthetic-18, similar to the file pt_p_Synthetic-13 but with the number of 8 digits under the acronym.
 
 - pt_p_Synthetic-19, with several potentially private elements, such as social, having a number of 11 digits ahead.
-
-
+<br />
+<br />
 "pt/non_private" folder content:
 
 two folders, one with real files, another with synthetic ones, created in order to add some kinda of pattern. 
-
-
+<br />
+<br />
 "pt/non_private/Real" folder content:
 
 This folder contains the real files considered non private.
@@ -102,8 +102,8 @@ This folder contains the real files considered non private.
 - Three receipts with the private information hidden.
 
 - Four tests created in the university Instituto Superior Técnico
-
-
+<br />
+<br />
 "pt/non_private/Synthetic" folder content: 
 
 This folder contains the non private and synthetic files.
@@ -111,19 +111,19 @@ This folder contains the non private and synthetic files.
 Content: 
 
 - A file with a number of 8 digits too far from the initials cc. Which leads one to believe that they are not connected, that way the file cannot be considered private.
-
-
-
+<br />
+<br />
+<br />
 "en" folder content:
 
 two folder, one with private files and the other one with non private files.
-
-
+<br />
+<br />
 "en/private" folder content:
 
 two folder, one with real files and another with synthetic files, created with the purpose of adding some kind of pattern to the algorithm
-
-
+<br />
+<br />
 "en/private/real" folder content:
 
 This folder contains the private and real files
@@ -141,8 +141,8 @@ This folder contains the private and real files
 - A request of sponsorship of an event. With private information being sent, like the Tax Identity Number (TIN/NIF/VAT) of the requesting organization.
 
 - Two receipts which have personal information from the buyer and the seller.
-
-
+<br />
+<br />
 "en/private/Synthetic" folder content: 
 
 This folder contains the private and synthetic files.
@@ -184,13 +184,13 @@ This folder contains the private and synthetic files.
 - en_p_Synthetic-18, similar to the file en_p_Synthetic-13 but with the number of 8 digits under the acronym.
 
 - en_p_Synthetic-19, with several potentially private elements, such as social, having a number of 11 digits ahead.
-
-
+<br />
+<br />
 "en/non_private" folder content:
 
 two folders, one with real files, another with synthetic ones, created in order to add some kinda of pattern. 
-
-
+<br />
+<br />
 "en/non_private/Real" folder content:
 
 This folder contains the private and real files
@@ -208,8 +208,8 @@ This folder contains the private and real files
 - A request of sponsorship of an event. With private information being sent, like the Tax Identity Number (TIN/NIF/VAT) of the requesting organization.
 
 - Two receipts which have personal information from the buyer and the seller.
-
-
+<br />
+<br />
 "en/non_private/Synthetic/" folder content:
 
 This folder contains the non private and synthetic files.
