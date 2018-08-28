@@ -6,7 +6,7 @@ Content:
 
 - en_p_Synthetic-2, which contains the initials cc, with 8 digits in the cell below, which leads to believing that it is the number of someone's citizen's card (from Portugal).
 
-- en_p_Synthetic-3, which has certain words that may mean that there is private information in this file, such as the phrase "born".
+- en_p_Synthetic-3, which has certain words that may mean that there is private information in this file, such as the phrase "born". Since social security doesnt have a number near it, it is not considered personal information
 
 - en_p_Synthetic-4, which has phrases that indicate the possibility of the existence of private information, for example CC with 8 digits ahead, which may indicate that the number of someone's citizen's card (from Portugal) is present.
 
