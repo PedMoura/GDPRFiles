@@ -248,6 +248,8 @@ This folder contains the private and real files
 - A request of sponsorship of an event. With private information being sent, like the Tax Identity Number (TIN/NIF/VAT) of the requesting organization.
 
 - Two receipts which have personal information from the buyer and the seller.
+
+- Two front covers from two thesis
 <br />
 <br />
 "en/non_private/Synthetic/" folder content:
