@@ -258,4 +258,8 @@ This folder contains the non private and synthetic files.
 
 Content:
 
-- A file with a number of 8 digits too far from the initials id. Which leads one to believe that they are not connected, that way the file cannot be considered private.
+- pt_np_Synthetic-1, which is a file with a number of 8 digits too far from the initials cc. Which leads one to believe that they are not connected, that way the file cannot be considered private.
+
+- pt_np_Synthetic-2, which has the phrase "Diário da República" (the official gazette from Portugal) which usually has a lot of personal information, but since those articles are publicly available, the files that contain this phrase probably aren't private.
+
+- pt_np_Synthetic-3, which contains the word "curriculum", to show that the word by itself doesn't mean that personal information is present on the file.
