@@ -24,7 +24,7 @@ This folder contains the private and real files
 
 - Six kinds of Curruculum Vitae (CV), these files are private because they contain a lot of personal information.
 
-- Three Invoices created by the Instituto Superior T�cnico. Invoices that contains private information like the taxpayer number.
+- Three Invoices created by the Instituto Superior Técnico. Invoices that contains private information like the taxpayer number.
 
 - A already written form.
 
@@ -154,7 +154,7 @@ This folder contains the private and real files
 
 - Six kinds of Curruculum Vitae (CV), these files are private because they contain a lot of personal information.
 
-- Three Invoices created by the Instituto Superior T�cnico. Invoices that contains private information like the taxpayer number.
+- Three Invoices created by the Instituto Superior Técnico. Invoices that contains private information like the taxpayer number.
 
 - A already written form.
 
@@ -237,7 +237,7 @@ This folder contains the private and real files
 
 - Six kinds of Curruculum Vitae (CV), these files are private because they contain a lot of personal information.
 
-- Three Invoices created by the Instituto Superior T�cnico. Invoices that contains private information like the taxpayer number.
+- Three Invoices created by the Instituto Superior Técnico. Invoices that contains private information like the taxpayer number.
 
 - A already written form.
 
