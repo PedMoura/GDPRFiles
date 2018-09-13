@@ -9,19 +9,19 @@ The documents are publicly available in a Git Hub repository in [3].
 <br />
 This dataset is organized in the following hierarchy of folders:
 •	Pt <br />
-o	non_personal <br />	
-	real – 18 documents <br />
-	Synthetic – 3 documents <br />
-o	Personal <br />
-	Real – 16 files <br />
-	Synthetic – 26 files <br />
+	-	non_personal <br />	
+		*	real – 18 documents <br />
+		*	Synthetic – 3 documents <br />
+	-	Personal <br />
+		*	Real – 16 files <br />
+		*	Synthetic – 26 files <br />
 •	En <br />
-o	non_ personal <br />	
-	real – 18 files <br />
-	Synthetic – 3 files <br />
-o	Personal <br />
-	Real – 16 files <br />
-	Synthetic – 26 files <br />
+	-	non_ personal <br />	
+		*	real – 18 files <br />
+		*	Synthetic – 3 files <br />
+	-	Personal <br />
+		*	Real – 16 files <br />
+		*	Synthetic – 26 files <br />
 <br />
 The */personal/Real folder contains real documents that have personal information:<br />
 •	Six different Curruculum Vitae (CV)<br />
