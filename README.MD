@@ -10,18 +10,18 @@ These files were used to test various supervised machine learning classification
 This dataset is organized in the following hierarchy of folders:<br />
 •  Pt <br />
 &nbsp; &nbsp; -  non_personal <br />	
-&nbsp; &nbsp; &nbsp; &nbsp; *  real – 18 documents <br />
-&nbsp; &nbsp; &nbsp; &nbsp; *  Synthetic – 3 documents <br />
+&nbsp; &nbsp; &nbsp; &nbsp; o  real – 18 documents <br />
+&nbsp; &nbsp; &nbsp; &nbsp; o  Synthetic – 3 documents <br />
 &nbsp; &nbsp; -  Personal <br />
-&nbsp; &nbsp; &nbsp; &nbsp; *  Real – 16 files <br />
-&nbsp; &nbsp; &nbsp; &nbsp; *  Synthetic – 26 files <br />
+&nbsp; &nbsp; &nbsp; &nbsp; o  Real – 16 files <br />
+&nbsp; &nbsp; &nbsp; &nbsp; o  Synthetic – 26 files <br />
 •  En <br />
 &nbsp; &nbsp; -  non_ personal <br />	
-&nbsp; &nbsp; &nbsp; &nbsp; *  real – 18 files <br />
-&nbsp; &nbsp; &nbsp; &nbsp; *  Synthetic – 3 files <br />
+&nbsp; &nbsp; &nbsp; &nbsp; o  real – 18 files <br />
+&nbsp; &nbsp; &nbsp; &nbsp; o  Synthetic – 3 files <br />
 &nbsp; &nbsp; -  Personal <br />
-&nbsp; &nbsp; &nbsp; &nbsp; *  Real – 16 files <br />
-&nbsp; &nbsp; &nbsp; &nbsp; *  Synthetic – 26 files <br />
+&nbsp; &nbsp; &nbsp; &nbsp; o  Real – 16 files <br />
+&nbsp; &nbsp; &nbsp; &nbsp; o  Synthetic – 26 files <br />
 <br />
 The */personal/Real folder contains real documents that have personal information:<br />
 &nbsp; &nbsp; •	Six different Curruculum Vitae (CV)<br />
