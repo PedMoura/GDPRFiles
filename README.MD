@@ -1,10 +1,10 @@
-﻿The General Data Protection Regulation [1] (GDPR) is a new European Regulation that was created and implemented to protect users’ personal data and ensure their privacy rights. 
+﻿The General Data Protection Regulation (GDPR) is a new European Regulation that was created and implemented to protect users’ personal data and ensure their privacy rights. 
 According to chapter 2, article 5 of the GDPR controllers are accountable for all the life cycle of the personal collected data. This cycle includes the storage and processing of data, but its transfer to processors or other recipients. 
 This accounting requires the development of tools that track document exchanged inside an organization verifying if documents includes data that is considered personal, and if the transmission is authorized.
 These tools can use machine learning techniques but need to be trained (if using supervised machine learning techniques) and tested. To perform the training and testing steps, it is necessary to use a dataset with documents that may contain personal data.
 The presented dataset is composed of 127 files, (85 files of which have personal data and 42 do not), of multiple type (e.g. receipts, CVs, …), in distinct formats (text, pdf, word and excel) and in two languages (Portuguese and English). This dataset was created resorting to real documents and synthetic ones.
-These files were used to test various supervised machine learning classification algorithms implemented using WEKA [2].
-The documents are publicly available in a Git Hub repository in [3].
+These files were used to test various supervised machine learning classification algorithms implemented using WEKA.
+
 <br />
 <br />
 This dataset is organized in the following hierarchy of folders:<br />
