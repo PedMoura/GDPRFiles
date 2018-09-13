@@ -74,4 +74,5 @@ The */non_personal/Synthetic folders contain the non personal and synthetic file
 &nbsp; &nbsp; •	*_np_Synthetic-1 - , a number of 8 digits too far from the initials cc. Which leads one to believe that they are not connected, that way the file cannot be considered personal.<br />
 &nbsp; &nbsp; •	*_np_Synthetic-2 – contains the sentence "Diário da República" (the official gazette from Portugal) which usually has of personal details that have to be made public by the law (for-instance public nominations, or work contracts).<br />
 &nbsp; &nbsp; •	*_np_Synthetic-3 - contains the word "curriculum", to show that the word by itself doesn't mean that personal information is present on the file.<br />
+<br />
 The English versions of these documents contain the corresponding translations of the personal data patterns.<br />
