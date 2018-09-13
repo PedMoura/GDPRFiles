@@ -7,21 +7,21 @@ These files were used to test various supervised machine learning classification
 The documents are publicly available in a Git Hub repository in [3].
 <br />
 <br />
-This dataset is organized in the following hierarchy of folders:
+This dataset is organized in the following hierarchy of folders:<br />
 •  Pt <br />
-    -  non_personal <br />	
-        *  real – 18 documents <br />
-	*  Synthetic – 3 documents <br />
-    -  Personal <br />
-	*  Real – 16 files <br />
-	*  Synthetic – 26 files <br />
+&nbsp; -  non_personal <br />	
+&nbsp; &nbsp; *  real – 18 documents <br />
+&nbsp; &nbsp; *  Synthetic – 3 documents <br />
+&nbsp; -  Personal <br />
+&nbsp; &nbsp; *  Real – 16 files <br />
+&nbsp; &nbsp; *  Synthetic – 26 files <br />
 •  En <br />
-    -  non_ personal <br />	
-	*  real – 18 files <br />
-	*  Synthetic – 3 files <br />
-    -  Personal <br />
-	*  Real – 16 files <br />
-	*  Synthetic – 26 files <br />
+&nbsp; -  non_ personal <br />	
+&nbsp; &nbsp; *  real – 18 files <br />
+&nbsp; &nbsp; *  Synthetic – 3 files <br />
+&nbsp; -  Personal <br />
+&nbsp; &nbsp; *  Real – 16 files <br />
+&nbsp; &nbsp; *  Synthetic – 26 files <br />
 <br />
 The */personal/Real folder contains real documents that have personal information:<br />
 •	Six different Curruculum Vitae (CV)<br />
